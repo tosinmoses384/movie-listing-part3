@@ -1,0 +1,45 @@
+.ApiCards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    display: grid;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;    
+}
+
+title .h6{
+    margin-bottom: .5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+
+
+
+
+/* .ApiCards{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-rows: 200px 200px;
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+} */
+
+/* .card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 4.4rem 10%;
+  }
+
+  .card{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+  } */
